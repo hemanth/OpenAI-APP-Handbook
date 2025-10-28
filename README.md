@@ -2,6 +2,10 @@
 
 This guide walks you through creating your app for chatGPT using Apps SDK.
 
+<img width="3024" height="2234" alt="image" src="https://github.com/user-attachments/assets/35053be0-f38a-4614-b495-2cf0afe96c9b" />
+
+[img-credit](https://developers.openai.com/apps-sdk/concepts/design-guidelines/)
+
 ## Table of Contents
 
 1. [Prerequisites](#prerequisites)
